@@ -1,25 +1,26 @@
 ## Инструкция по применению патчей
 1. Скомпилировать необходимую версию согласно иструкции из репозитория;
   
-`Windows` - https://github.com/sm64-port/sm64-port
+    `Windows` - https://github.com/sm64-port/sm64-port
 
-`Linux (Steam Deck)` - https://github.com/sm64pc/sm64ex
+    `Linux (Steam Deck)` - https://github.com/sm64pc/sm64ex
 
-`N64` - https://github.com/n64decomp/sm64
+    `N64` - https://github.com/n64decomp/sm64
 
-`PSP` - https://github.com/mrneo240/sm64-port
+    `PSP` - https://github.com/mrneo240/sm64-port
 
-`PS2` - https://github.com/fgsfdsfgs/sm64-port/tree/ps2
+    `PS2` - https://github.com/fgsfdsfgs/sm64-port/tree/ps2
 
-`PSV` - https://github.com/Dima353/sm64-vita
+    `PSV` - https://github.com/Dima353/sm64-vita
 
-`3DS` - https://github.com/mkst/sm64-port
+    `3DS` - https://github.com/mkst/sm64-port
 
-`Switch` - https://github.com/fgsfdsfgs/sm64ex/tree/switch
+    `Switch` - https://github.com/fgsfdsfgs/sm64ex/tree/switch
 
-3. Распаковать соответсвующий архив, перемесить содержимо с заменой файлов;
-4. Очистить каталог `build`;
-5. Запустить сборку повторно.
+3. [Скачать](https://github.com/Dima353/SM64-Rus-Patch/releases) необходимую версию;
+4. Распаковать архив, перемесить содержимо с заменой файлов;
+5. Очистить каталог `build`;
+6. Запустить сборку повторно.
 
 
 ##  Описание файлов перевода SM64
