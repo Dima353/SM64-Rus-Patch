@@ -24,7 +24,7 @@
 
 
 ##  Описание файлов перевода SM64
-##  Текст
+###  Текст
 
 * sm64\text\us\courses.h` - названия миров, описание звёзд.
 * `sm64\text\us\dialogs.h` - диалоги.
@@ -33,7 +33,7 @@
 * `sm64\src\game\area.c` - содержит цветную надпись "PRESS START" на стартовом экране.
 * `sm64\src\game\hud.c` - содержит цветную надпись "TIME" и её настройки.
 
-##  Шрифт
+###  Шрифт
 * `sm64\textures\segment2` - шрифт 16х8 для диалогов и меню паузы. Шрифт 16х16 - цветной.
 * `sm64\levels\menu` - шрифт 8х8 для некоторых элементов меню и названий миров при выборе звёзд.
 * `sm64\bin\segment2.c` - отвечает за глифы обычного шрифта, можно добавлять новые и раскоментировать уже имеющиеся.
@@ -93,7 +93,7 @@ u8 gDialogCharWidths[256] = { // TODO: Is there a way to auto generate this?
     5,  5,  6,  5,  6,  6,  6,  6,  6,  7,  6,  8,  7,  8,  5,  7, // á é í ó ú Á É Í Ó Ú ñ Ñ ü Ü ¡ ¿
     8,  8,  6,  8,  7,  7,  6,  7,  7,  0,  0,  0,  0,  0,  0,  0,
 ```
-##  Текстуры
+###  Текстуры
 * `\sm64\sm64-port-map\actors\power_meter\power_meter_left_side.rgba16.png` и `power_meter_right_side.rgba16.png` - Индикатор энергии
 * `\sm64\sm64-port-map\levels\castle_grounds\5.ia8.png` - Подпись "Пич" из стартовой катсцены
 * `\sm64\sm64-port-map\levels\menu\main_menu_seg7.0D1A8.rgba16.png` и `main_menu_seg7.0E1A8.rgba16.png` - Надпись "Мир" при выборе уровня
