@@ -19,7 +19,7 @@
 
     `Switch` - https://github.com/fgsfdsfgs/sm64ex/tree/switch
 
-3. [Скачать](https://github.com/Dima353/SM64-Rus-Patch/releases) необходимую версию;
+3. [Скачать](https://github.com/Dima353/SM64-Rus-Patch/releases) необходимую версию патча;
 4. Распаковать архив, перемесить содержимое с заменой файлов;
 5. Очистить каталог `build`;
 6. Запустить сборку повторно.
