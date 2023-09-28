@@ -21,6 +21,8 @@
 
     `Android` - https://github.com/Samutz/sm64-port-android-base
 
+   `FunKey S` - https://github.com/DrUm78/sm64-funkey
+
 3. [Скачать](https://github.com/Dima353/SM64-Rus-Patch/releases) необходимую версию патча;
 4. Распаковать архив, перемесить содержимое с заменой файлов;
 5. Очистить каталог `build`;
