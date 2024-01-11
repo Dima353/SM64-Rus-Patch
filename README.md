@@ -1,4 +1,5 @@
-![](https://github.com/Dima353/SM64-Rus-Patch/blob/main/scr.jpg?raw=true)
+
+![scr](https://github.com/Dima353/SM64-Rus-Patch/assets/75039669/b23ae1ce-b42e-4549-8cd8-cc5898068ff7)
 
 ## Инструкция по применению патчей
 1. Скомпилировать необходимую версию согласно иструкции из репозитория;
