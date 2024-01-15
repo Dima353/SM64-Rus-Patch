@@ -4,7 +4,7 @@
 ## Инструкция по применению патчей
 1. Скомпилировать необходимую версию согласно иструкции из репозитория;
   
-    `Windows` - https://github.com/sm64-port/sm64-port
+    `Windows` - https://github.com/sm64pc/sm64ex
 
     `Linux (Steam Deck)` - https://github.com/sm64pc/sm64ex
 
