@@ -24,7 +24,7 @@
 
    `FunKey S` - https://github.com/DrUm78/sm64-funkey
 
-   `ArkOS, Anbernic` - https://github.com/AdrienLombard/sm64-351elec-port
+   `PortMaster (ArkOS, Anbernic)` - https://github.com/AdrienLombard/sm64-351elec-port
 
 3. [Скачать](https://github.com/Dima353/SM64-Rus-Patch/releases) необходимую версию патча;
 4. Распаковать архив, перемесить содержимое с заменой файлов;
